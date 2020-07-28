@@ -3,17 +3,20 @@
 * {
   box-sizing: border-box;
 }
+body { padding: 0px;
 
+}
 h1 {
   font-family: Helvetica;
   margin-bottom: 15px;
   text-align: center;
   font-size-adjust: 75%;
 }
-h2 { position: relative;
+.box {position: relative;
   border: 1px solid black;
   height: 100px;
-  margin: 20px;
+  margin-right: 3px;
+  margin-bottom: 3px;
   background-color: #b494ff;
   
 }
